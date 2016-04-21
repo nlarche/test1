@@ -1,6 +1,6 @@
 {
   "name": "@rca/test1",
-  "version": "2.9.3",
+  "version": "2.9.4",
   "description": "composant de test",
   "main": "index.js",
   "scripts": {
