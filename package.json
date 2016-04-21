@@ -1,6 +1,6 @@
 {
-  "name": "@rca/test1",
-  "version": "2.10.0",
+  "name": "nlarche-test-npm",
+  "version": "1.0.0",
   "description": "composant de test",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/nlarche/test1#readme",
   "devDependencies": {
+    "semantic-versioning": "^1.0.0"
+  },
+  "dependencies": {
     "semantic-versioning": "^1.0.0"
   }
 }
